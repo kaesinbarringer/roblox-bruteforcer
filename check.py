@@ -11,8 +11,8 @@ from colorama import Fore
 from loguru import logger
 from requests.adapters import HTTPAdapter
 
-num_threads = 1
-capsolver.api_key = ""
+num_threads = 8
+capsolver.api_key = "CAP-7263F1FBCDBDC8930A48A82739B94580FFF15A5BD381DE3DEBEF9324C7FC8230CAP-7263F1FBCDBDC8930A48A82739B94580FFF15A5BD381DE3DEBEF9324C7FC8230CAP-7263F1FBCDBDC8930A48A82739B94580FFF15A5BD381DE3DEBEF9324C7FC8230"
 
 logger.enable("__main__")
 
